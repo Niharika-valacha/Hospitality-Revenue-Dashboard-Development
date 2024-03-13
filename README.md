@@ -6,6 +6,6 @@ However, they do not have an in-house data analytics team to provide them with t
 observation :
 1. flat pricing:
 2. weekday/weekend Pricing:
-3. dynamic pricing : changes on the bases of occupancy rate 
+3. dynamic pricing : changes on the bases of occupancy rate //
 based of these we are able to find what cost we should have  based of adr , occupancy and based of
 which we will fix the cost .
